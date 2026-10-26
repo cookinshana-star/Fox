@@ -1,71 +1,71 @@
 [
   {
-    "id": "fox-sports-501",
+    "id": "fox1",
     "name": "Fox Sports 501",
     "url": ""
   },
   {
-    "id": "fox-sports-502",
+    "id": "fox2",
     "name": "Fox Sports 502",
     "url": ""
   },
   {
-    "id": "fox-sports-503",
+    "id": "fox3",
     "name": "Fox Sports 503",
     "url": ""
   },
   {
-    "id": "fox-sports-504",
+    "id": "fox4",
     "name": "Fox Sports 504",
     "url": ""
   },
   {
-    "id": "fox-sports-505",
+    "id": "fox5",
     "name": "Fox Sports 505",
     "url": ""
   },
   {
-    "id": "fox-sports-506",
+    "id": "fox6",
     "name": "Fox Sports 506",
     "url": ""
   },
   {
-    "id": "fox-sports-507",
+    "id": "fox7",
     "name": "Fox Sports 507",
     "url": ""
   },
   {
-    "id": "sky-sports-cricket-uk",
+    "id": "skyukcric",
     "name": "Sky Sports Cricket (UK)",
     "url": ""
   },
   {
-    "id": "tnt-sports-1-uk",
+    "id": "tnt1",
     "name": "TNT Sports 1 (UK)",
     "url": ""
   },
   {
-    "id": "tnt-sports-2-uk",
+    "id": "tnt2",
     "name": "TNT Sports 2 (UK)",
     "url": ""
   },
   {
-    "id": "tnt-sports-3-uk",
+    "id": "tnt3",
     "name": "TNT Sports 3 (UK)",
     "url": ""
   },
   {
-    "id": "tnt-sports-4-uk",
+    "id": "tnt4",
     "name": "TNT Sports 4 (UK)",
     "url": ""
   },
   {
-    "id": "willow-2-usa",
+    "id": "willow-2",
     "name": "Willow 2 (USA)",
     "url": ""
   },
   {
-    "id": "willow-usa",
+    "id": "willow",
     "name": "Willow (USA)",
     "url": ""
   }
